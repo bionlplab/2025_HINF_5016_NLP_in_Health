@@ -52,6 +52,6 @@ If you are interested in Deep Learning
 | 3/3 | Intro to deep learning | Assignment 3 | Literature review |
 | 3/10 | CNN, RNN, and Transformer |  |
 | 3/17 | Large Langauge Model | Assignment 4 | Assignment 3 |
-| 3/24 | Multimodal data analsyis |
+| 3/24 | Multimodal large language models |
 | 3/31 | Final project presentation | | Assignment 4 |
 | 4/7 | - | | Final project paper |

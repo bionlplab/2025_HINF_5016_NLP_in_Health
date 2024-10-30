@@ -2,4 +2,4 @@
 
 **Spring, 2025**
 
-https://bionlplab.github.io/2025_Spring_NLP_in_Health/
+https://bionlplab.github.io/2025_HINF5016_NLP_in_Health/

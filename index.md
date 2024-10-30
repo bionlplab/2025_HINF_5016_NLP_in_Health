@@ -9,7 +9,7 @@ This course provides students with an understanding of the field of natural lang
 
 ### Format and Procedures
 
-The course is 14 weeks in length. The course follows the progression of topics: python review, regular expression and automata, text normalization, n-gram, text classification, sequence labeling, parsing, word vector, introduction to deep learning, convolutional neural network and recurrent neural network, and transformer-based method. Each topic is addressed in a module lasting 1-2 weeks. Students will work on an individual project in parallel with these activities and give a final presentation last week.
+The course follows the progression of topics: text preprocessing and regular expression, n-gram, text classification, sequence labeling, parsing, word vector, convolutional neural network and recurrent neural network, and transformer-based methods. Each topic is addressed in a module lasting 1-2 weeks. Students will work on individual assignments alongside these activities, as well as participate in a team project.
 
 ### Prerequisites
 
@@ -46,7 +46,7 @@ If you are interested in Deep Learning
 | 1/20 | Martin Luther King, Jr. Day – no classes | |
 | 1/27 | n-gram | Assignment 2 | Assignment 1 |
 | 2/3 | Text classification | | |
-| 2/10 | Sequence labeling and parisng | Literature review | Assignment 2 |
+| 2/10 | Part-of-speech tagging and parisng | Literature review | Assignment 2 |
 | 2/17 | Presidents' Day - no classes
 | 2/24 | Word vector | Project proposal | |
 | 3/3 | Intro to deep learning | Assignment 3 | Literature review |

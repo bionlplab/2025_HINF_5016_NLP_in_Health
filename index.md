@@ -41,18 +41,17 @@ If you are interested in Deep Learning
 
 | Week | Topic | Event | Deadline |
 |----|-------------------------------------------|-----------------------------|---------------------|
-| 1 | Introduction | | |
-| 2 | Regular expression | Assignment 1 | |
-| 3 | Text preprocessing | | |
-| 4 | n-gram | Assignment 2 | Assignment 1 |
-| 5 | Text classification | |  |
-| 6 | Sequence labeling | Literature review | Assignment 2 |
-| 7 | Parsing | | |
-| 8 | Word vector | Project proposal | |
-| 9 | Intro to deep learning | | |
-| 10 | CNN and RNN | Assignment 3 | Literature review |
-| 11 | Transformer | | |
-| 12 | Large Langauge Model | Assignment 4 | Assignment 3 |
-| 13 | NLP applications in Healthcare | | |
-| 14 | Final project presentation | | Assignment 4 |
-| 15 | - | | Final project paper |
+| 1/6 | Introduction | | |
+| 1/13 | Text preprocessing and regular expression | Assignment 1 | |
+| 1/20 | Martin Luther King, Jr. Day – no classes | |
+| 1/27 | n-gram | Assignment 2 | Assignment 1 |
+| 2/3 | Text classification | | |
+| 2/10 | Sequence labeling and parisng | Literature review | Assignment 2 |
+| 2/17 | Presidents' Day - no classes
+| 2/24 | Word vector | Project proposal | |
+| 3/3 | Intro to deep learning | Assignment 3 | Literature review |
+| 3/10 | CNN, RNN, and Transformer |  |
+| 3/17 | Large Langauge Model | Assignment 4 | Assignment 3 |
+| 3/24 | Multimodal data analsyis |
+| 3/31 | Final project presentation | | Assignment 4 |
+| 4/7 | - | | Final project paper |

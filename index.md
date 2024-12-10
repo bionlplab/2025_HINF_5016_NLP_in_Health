@@ -48,7 +48,7 @@ If you are interested in Deep Learning
 | 1/20 | Martin Luther King, Jr. Day – no classes | |
 | 1/27 | n-gram | Assignment 2 | Assignment 1 |
 | 2/3 | Text classification | | |
-| 2/10 | Part-of-speech tagging and parisng | Literature review | Assignment 2 |
+| 2/10 | Part-of-speech tagging and parsing | Literature review | Assignment 2 |
 | 2/17 | Presidents' Day - no classes
 | 2/24 | Word vector | Project proposal | |
 | 3/3 | Intro to deep learning | Assignment 3 | Literature review |

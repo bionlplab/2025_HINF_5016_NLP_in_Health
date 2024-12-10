@@ -1,5 +1,5 @@
 **Instructor**: Yifan Peng ([yip4002@med.cornell.edu](yip4002@med.cornell.edu))<br>
-**Time**: Jan. 6, 2025 - April 4, 2025, 5:15-8:15 pm East Time on Mondays<br>
+**Time**: Jan. 6, 2025 - April 11, 2025, 5:15-8:15 pm East Time on Mondays<br>
 **Location**: WCMC Campus; TBD<br>
 **TA**: TBD<br>
 **Office Hours**: TBD<br>
@@ -54,6 +54,6 @@ If you are interested in Deep Learning
 | 3/3 | Intro to deep learning | Assignment 3 | Literature review |
 | 3/10 | CNN, RNN, and Transformer |  |
 | 3/17 | Large Langauge Model | Assignment 4 | Assignment 3 |
-| 3/24 | Multimodal large language models |
-| 3/31 | Final project presentation | | Assignment 4 |
-| 4/7 | - | | Final project paper |
+| 3/24 | Prompt engineering and LLM fine-tuning |
+| 3/31 | Multimodal large language models | | Assignment 4 |
+| 4/7 | Final project presentation | | Final project paper |

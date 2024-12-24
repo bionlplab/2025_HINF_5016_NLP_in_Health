@@ -48,12 +48,12 @@ If you are interested in Deep Learning
 | 1/20 | Martin Luther King, Jr. Day – no classes | |
 | 1/27 | n-gram | Assignment 2 | Assignment 1 |
 | 2/3 | Text classification | | |
-| 2/10 | Part-of-speech tagging and parsing | Literature review | Assignment 2 |
+| 2/10 | Part-of-speech tagging and parsing | Assignment 3 | Assignment 2 |
 | 2/17 | Presidents' Day - no classes
 | 2/24 | Word vector | Project proposal | |
-| 3/3 | Intro to deep learning | Assignment 3 | Literature review |
+| 3/3 | Intro to deep learning | Assignment 4 | Assignment 3 |
 | 3/10 | CNN, RNN, and Transformer |  |
-| 3/17 | Large Langauge Model | Assignment 4 | Assignment 3 |
+| 3/17 | Large Langauge Model | Assignment 5 | Assignment 4 |
 | 3/24 | Prompt engineering and LLM fine-tuning |
-| 3/31 | Multimodal large language models | | Assignment 4 |
+| 3/31 | Multimodal large language models | | Assignment 5 |
 | 4/7 | Final project presentation | | Final project paper |

@@ -1,7 +1,7 @@
 **Instructor**: Yifan Peng ([yip4002@med.cornell.edu](yip4002@med.cornell.edu))<br>
 **Time**: Jan. 6, 2025 - April 11, 2025, 5:15-8:15 pm East Time on Mondays<br>
-**Location**: WCMC Campus; TBD<br>
-**TA**: TBD<br>
+**Location**: 575 Lex<br>
+**TA**: Zihan Xu ([zix4004@med.cornell.edu](zix4004@med.cornell.edu))<br>
 **Office Hours**: TBD<br>
 **Grading**: Letter grade
 
